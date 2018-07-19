@@ -8,8 +8,10 @@
     "test": "nodemon node server.js"
   },
   "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.11",
     "node-static": "^0.7.10",
     "nodemon": "^1.17.5",
+    "npm": "^6.2.0",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1",
     "websocket": "^1.0.26"
